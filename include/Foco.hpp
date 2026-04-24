@@ -7,7 +7,7 @@ private:
 
 public:
     Foco () {
-        this ->encendido = true;
+        this ->encendido = false;
     }
     ~Foco() {}
     void Encender(){
